@@ -1,0 +1,2 @@
+# Limited-English-Proficency-Patients-Project
+It is well documented that Limited English Proficiency (LEP) patients, including many refugees, experience inequities in our healthcare system. Interpreters play a crucial role in mitigating disparities in healthcare outcomes. We aimed to uncover an opportunity for improvement at our hospital by comparing healthcare outcomes for LEP patients who worked with interpreters to English proficient patients admitted to internal medicine.
